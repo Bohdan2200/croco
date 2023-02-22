@@ -38,3 +38,13 @@ h6 {
 figure img {
     width: 100%;
 }
+form {
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+input {
+    border: 0;
+    border-bottom: 2px solid black;
+    width: 100%;
+}
