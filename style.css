@@ -23,3 +23,11 @@ section div img {
 .cartback {
     margin: 0px 50px;
 }
+main {
+    margin: 0 150px;
+    text-align: justify;
+}
+h6 {
+    font-weight: normal;
+    text-transform: uppercase;
+}
