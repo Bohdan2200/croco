@@ -31,3 +31,10 @@ h6 {
     font-weight: normal;
     text-transform: uppercase;
 }
+.fige {
+    display: flex;
+    margin: 0 110px;
+}
+figure img {
+    width: 100%;
+}
