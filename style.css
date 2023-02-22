@@ -4,6 +4,7 @@ body {
 header {
     padding: 0px 50px;
     background-color: lightgray;
+    margin: 0px 50px;
 }
 .header {
     display: flex;
@@ -15,4 +16,10 @@ ul {
     padding: 0;
     display: flex;
     gap: 150px;
+}
+section div img {
+    width: 100%;
+}
+.cartback {
+    margin: 0px 50px;
 }
