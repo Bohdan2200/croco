@@ -84,6 +84,15 @@ ol li img {
     ul {
         gap: 70px;
     }
+    main {
+        margin: 0 20px;
+    }
+    .fige {
+        margin: 0 20px;
+    }
+    .fige figure {
+        margin: 16px 20px;
+    }
 }
 @media (max-width:700px) {
     .header {
@@ -92,5 +101,15 @@ ol li img {
     }
     ul {
         gap: 30px;
+    }
+    main {
+        margin: 0 20px;
+    }
+    .fige {
+        margin: 0 20px;
+        flex-direction: column;
+    }
+    .fige figure {
+        margin: 16px 20px;
     }
 }
